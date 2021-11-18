@@ -273,16 +273,17 @@
 }
 
 .footer {
-  padding-top: 60px;
-  padding-bottom: 40px;
+  min-height: 350px;
   background-color: #1f1f1f;
   color: white;
+  display: flex;
+  align-items: stretch;
 }
 
 .footer__columns {
   width: 90%;
-  min-height: 250px;
-  margin: auto;
+  /* min-height перенес в .footer думаю так правильнее (после ревью удалить!)*/
+  margin: 60px auto 40px;
   display: flex;
   justify-content: space-between;
 }
