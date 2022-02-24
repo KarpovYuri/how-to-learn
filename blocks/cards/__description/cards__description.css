@@ -12,3 +12,10 @@
     line-height: 20px;
   }
 }
+
+@media screen and (max-width: 767px) {
+  .cards__description {
+    font-size: 15px;
+    line-height: 19px;
+  }
+}

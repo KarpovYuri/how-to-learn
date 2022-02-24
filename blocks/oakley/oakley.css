@@ -10,3 +10,15 @@
     padding-top: 136px;
   }
 }
+
+@media screen and (max-width: 1023px) {
+  .oakley {
+    padding-top: 102px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .oakley {
+    padding-top: 69px;
+  }
+}

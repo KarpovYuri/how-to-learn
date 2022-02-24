@@ -24,3 +24,13 @@
     margin-right: 40px;
   }
 }
+
+@media screen and (max-width: 767px) {
+  .table__cell_theme_dark {
+    margin-top: 35px;
+  }
+
+  .table__cell_theme_dark:nth-of-type(4n) {
+    margin-right: 0;
+  }
+}

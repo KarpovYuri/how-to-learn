@@ -15,3 +15,10 @@
     transform: translateY(32px);
   }
 }
+
+@media screen and (max-width: 767px) {
+  .video__iframes {
+    flex-wrap: wrap;
+    transform: translateY(22px);
+  }
+}

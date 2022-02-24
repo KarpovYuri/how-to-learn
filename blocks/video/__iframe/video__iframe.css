@@ -24,3 +24,16 @@
     margin-right: 13px;
   }
 }
+
+@media screen and (max-width: 767px) {
+  .video__iframe {
+    width: 411px;
+    height: 253px;
+    margin-right: 0;
+    margin-bottom: 15px;
+  }
+
+  .video__iframe:last-of-type {
+    margin-bottom: 0;
+  }
+}

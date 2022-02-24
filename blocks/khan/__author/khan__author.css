@@ -18,3 +18,10 @@
     font-size: 20px;
   }
 }
+
+@media screen and (max-width: 767px) {
+  .khan__author {
+    line-height: 20px;
+    font-size: 18px;
+  }
+}

@@ -4,3 +4,21 @@
   display: flex;
   justify-content: space-between;
 }
+
+@media screen and (max-width: 1279px) {
+  .footer__columns {
+    margin: 51px auto 34px;
+  }
+}
+
+@media screen and (max-width: 1023px) {
+  .footer__columns {
+    margin: 38px auto 26px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .footer__columns {
+    margin: 26px auto 18px;
+  }
+}

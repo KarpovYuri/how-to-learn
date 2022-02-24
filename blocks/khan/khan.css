@@ -14,3 +14,9 @@
     padding-top: 67px;
   }
 }
+
+@media screen and (max-width: 767px) {
+  .khan {
+    padding-top: 46px;
+  }
+}

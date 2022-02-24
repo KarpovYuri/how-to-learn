@@ -24,3 +24,12 @@
     margin-left: 41px;
   }
 }
+
+@media screen and (max-width: 767px) {
+  .header__title {
+    max-width: 316px;
+    line-height: 44px;
+    font-size: 41px;
+    margin-left: 28px;
+  }
+}

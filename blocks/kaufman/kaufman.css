@@ -16,3 +16,9 @@
     padding: 58px 0;
   }
 }
+
+@media screen and (max-width: 767px) {
+  .kaufman {
+    padding: 39px 0;
+  }
+}

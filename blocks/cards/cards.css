@@ -18,3 +18,9 @@
     width: 544px;
   }
 }
+
+@media screen and (max-width: 767px) {
+  .cards {
+    width: 446px;
+  }
+}
