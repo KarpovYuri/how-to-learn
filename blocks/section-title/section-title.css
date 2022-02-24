@@ -6,3 +6,9 @@
   font-size: 60px;
   font-weight: 600;
 }
+
+@media screen and (max-width: 1279px) {
+  .section-title {
+    font-size: 51px;
+  }
+}

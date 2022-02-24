@@ -5,3 +5,11 @@
   object-position: top;
   margin-right: 48px;
 }
+
+@media screen and (max-width: 1279px) {
+  .khan__book-pic {
+    width: 527px;
+    height: 517px;
+    margin-right: 41px;
+  }
+}

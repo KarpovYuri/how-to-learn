@@ -8,3 +8,11 @@
   background-position: left bottom;
   box-sizing: border-box;
 }
+
+@media screen and (max-width: 1279px) {
+  .feynman {
+    padding-top: 85px;
+    min-height: 756px;
+    background-size: 650px 478px;
+  }
+}

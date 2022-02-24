@@ -8,3 +8,11 @@
 .video__iframe:last-of-type {
   margin-right: 0;
 }
+
+@media screen and (max-width: 1279px) {
+  .video__iframe {
+    width: 438px;
+    height: 269px;
+    margin-right: 17px;
+  }
+}
