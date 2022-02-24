@@ -12,3 +12,10 @@
     font-size: 26px;
   }
 }
+
+@media screen and (max-width: 1023px) {
+  .khan__buy-link {
+    line-height: 27px;
+    font-size: 20px;
+  }
+}

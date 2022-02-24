@@ -13,3 +13,10 @@
     width: 920px;
   }
 }
+
+@media screen and (max-width: 1023px) {
+  .table {
+    width: 680px;
+    justify-content: start;
+  }
+}

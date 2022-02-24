@@ -16,3 +16,11 @@
     height: 745px;
   }
 }
+
+@media screen and (max-width: 1023px) {
+  .kaufman__triangle {
+    width: 559px;
+    height: 559px;
+    top: 200px;
+  }
+}

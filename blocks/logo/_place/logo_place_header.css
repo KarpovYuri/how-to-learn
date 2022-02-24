@@ -11,3 +11,9 @@
     left: 54px;
   }
 }
+
+@media screen and (max-width: 1279px) {
+  .logo_place_header {
+    left: 41px;
+  }
+}

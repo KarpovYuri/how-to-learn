@@ -18,3 +18,12 @@
     left: 54px;
   }
 }
+
+@media screen and (max-width: 1279px) {
+  .header__subtitle {
+    max-width: 262px;
+    line-height: 21px;
+    font-size: 14px;
+    left: 41px;
+  }
+}

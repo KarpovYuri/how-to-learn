@@ -7,3 +7,9 @@
     padding: 85px 0;
   }
 }
+
+@media screen and (max-width: 1023px) {
+  .digits {
+    padding: 64px 0;
+  }
+}

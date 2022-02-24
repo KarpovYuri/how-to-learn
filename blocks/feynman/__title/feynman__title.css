@@ -14,3 +14,10 @@
     font-size: 102px;
   }
 }
+
+@media screen and (max-width: 1023px) {
+  .feynman__title {
+    max-width: 413px;
+    font-size: 77px;
+  }
+}

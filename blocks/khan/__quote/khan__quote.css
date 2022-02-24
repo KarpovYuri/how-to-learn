@@ -16,3 +16,12 @@
     font-size: 20px;
   }
 }
+
+@media screen and (max-width: 1023px) {
+  .khan__quote {
+    max-width: 504px;
+    padding-top: 32px;
+    line-height: 22px;
+    font-size: 16px;
+  }
+}

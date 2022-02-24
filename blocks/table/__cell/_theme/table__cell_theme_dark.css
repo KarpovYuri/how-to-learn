@@ -7,9 +7,20 @@
 @media screen and (max-width: 1279px) {
   .table__cell_theme_dark {
     margin-right: 40px;
+    margin-top: 68px;
   }
 
   .table__cell_theme_dark:nth-of-type(4n) {
     margin-right: 0;
+  }
+}
+
+@media screen and (max-width: 1023px) {
+  .table__cell_theme_dark {
+    margin-top: 51px;
+  }
+
+  .table__cell_theme_dark:nth-of-type(4n) {
+    margin-right: 40px;
   }
 }
