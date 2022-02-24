@@ -22,3 +22,9 @@
     margin: 26px auto 18px;
   }
 }
+
+@media screen and (max-width: 424px) {
+  .footer__columns {
+    flex-wrap: wrap;
+  }
+}

@@ -37,3 +37,11 @@
     margin-top: 23px;
   }
 }
+
+@media screen and (max-width: 424px) {
+  .feynman__subtitle {
+    line-height: 17px;
+    font-size: 15px;
+    margin-top: 0;
+  }
+}
