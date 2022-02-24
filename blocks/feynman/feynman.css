@@ -16,3 +16,11 @@
     background-size: 650px 478px;
   }
 }
+
+@media screen and (max-width: 1023px) {
+  .feynman {
+    padding-top: 64px;
+    min-height: 567px;
+    background-size: 488px 359px;
+  }
+}

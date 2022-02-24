@@ -11,7 +11,13 @@
 @media screen and (max-width: 1279px) {
   .two-columns__brief {
     max-width: 149px;
-    line-height: 1.2em;
     font-size: 15px;
+  }
+}
+
+@media screen and (max-width: 1023px) {
+  .two-columns__brief {
+    max-width: 112px;
+    font-size: 14px;
   }
 }

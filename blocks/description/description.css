@@ -9,3 +9,9 @@
     padding-top: 85px;
   }
 }
+
+@media screen and (max-width: 1023px) {
+  .description {
+    padding-top: 64px;
+  }
+}

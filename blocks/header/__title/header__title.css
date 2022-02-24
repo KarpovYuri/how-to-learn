@@ -15,3 +15,12 @@
     margin-left: 54px;
   }
 }
+
+@media screen and (max-width: 1023px) {
+  .header__title {
+    max-width: 465px;
+    line-height: 65px;
+    font-size: 61px;
+    margin-left: 41px;
+  }
+}

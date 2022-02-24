@@ -7,3 +7,9 @@
     padding-top: 85px;
   }
 }
+
+@media screen and (max-width: 1023px) {
+  .resources {
+    padding-top: 64px;
+  }
+}
