@@ -3,3 +3,10 @@
   width: 80%;
   margin: auto;
 }
+
+@media screen and (max-width: 1279px) {
+  .techniques {
+    padding: 85px 0 0;
+    width: 85%;
+  }
+}

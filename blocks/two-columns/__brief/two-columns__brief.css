@@ -7,3 +7,11 @@
   font-weight: normal;
   color: #2f80ed;
 }
+
+@media screen and (max-width: 1279px) {
+  .two-columns__brief {
+    max-width: 149px;
+    line-height: 1.2em;
+    font-size: 15px;
+  }
+}

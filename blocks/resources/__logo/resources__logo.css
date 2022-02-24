@@ -2,3 +2,10 @@
   width: 270px;
   height: 38px;
 }
+
+@media screen and (max-width: 1279px) {
+  .resources__logo {
+    width: 230px;
+    height: 32px;
+  }
+}
