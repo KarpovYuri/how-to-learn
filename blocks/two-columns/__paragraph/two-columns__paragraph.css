@@ -29,3 +29,11 @@
     margin-bottom: 20px;
   }
 }
+
+@media screen and (max-width: 524px) {
+  .two-columns__paragraph {
+    line-height: 20px;
+    margin-bottom: 16px;
+    font-size: 15px;
+  }
+}

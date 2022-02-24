@@ -24,3 +24,9 @@
     width: 446px;
   }
 }
+
+@media screen and (max-width: 524px) {
+  .cards {
+    width: 200px;
+  }
+}

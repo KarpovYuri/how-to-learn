@@ -29,3 +29,10 @@
     height: 263px;
   }
 }
+
+@media screen and (max-width: 524px) {
+  .header__main-illustration {
+    width: 267px;
+    height: 210px;
+  }
+}

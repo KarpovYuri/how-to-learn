@@ -3,3 +3,11 @@
   width: 16px;
   height: 16px;
 }
+
+@media screen and (max-width: 524px) {
+  .footer__social-icon {
+    margin-right: 6px;
+    width: 14px;
+    height: 14px;
+  }
+}

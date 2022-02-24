@@ -29,3 +29,10 @@
     max-height: 400px;
   }
 }
+
+@media screen and (max-width: 524px) {
+  .header {
+    min-height: 208px;
+    max-height: 320px;
+  }
+}

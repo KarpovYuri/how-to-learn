@@ -17,3 +17,10 @@
     width: 90%;
   }
 }
+
+@media screen and (max-width: 524px) {
+  .techniques {
+    padding: 51px 0 0;
+    width: 95%;
+  }
+}

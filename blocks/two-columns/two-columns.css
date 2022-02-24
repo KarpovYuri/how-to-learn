@@ -22,3 +22,9 @@
     flex-wrap: wrap;
   }
 }
+
+@media screen and (max-width: 524px) {
+  .two-columns {
+    width: 90%;
+  }
+}
