@@ -34,3 +34,11 @@
     width: 197px;
   }
 }
+
+@media screen and (max-width: 424px) {
+  .header__square-pic {
+    height: 148px;
+    width: 148px;
+    top: 90px;
+  }
+}

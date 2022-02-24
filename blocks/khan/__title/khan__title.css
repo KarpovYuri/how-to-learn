@@ -16,3 +16,9 @@
     font-size: 40px;
   }
 }
+
+@media screen and (max-width: 424px) {
+  .khan__title {
+    font-size: 30px;
+  }
+}
