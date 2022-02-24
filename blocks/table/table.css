@@ -26,3 +26,9 @@
     width: 440px;
   }
 }
+
+@media screen and (max-width: 524px) {
+  .table {
+    width: 200px;
+  }
+}

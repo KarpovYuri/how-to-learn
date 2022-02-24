@@ -14,3 +14,11 @@
     font-size: 16px;
   }
 }
+
+@media screen and (max-width: 524px) {
+  .footer__column-links {
+    margin: 15px 0 11px 0;
+    line-height: 22px;
+    font-size: 14px;
+  }
+}

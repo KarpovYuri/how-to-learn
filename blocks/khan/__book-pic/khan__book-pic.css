@@ -29,3 +29,11 @@
     margin-right: 21px;
   }
 }
+
+@media screen and (max-width: 524px) {
+  .khan__book-pic {
+    width: 215px;
+    height: 211px;
+    margin-right: 17px;
+  }
+}

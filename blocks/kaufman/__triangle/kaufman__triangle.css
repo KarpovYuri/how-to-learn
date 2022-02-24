@@ -24,3 +24,21 @@
     top: 200px;
   }
 }
+
+@media screen and (max-width: 767px) {
+  .kaufman__triangle {
+    width: 380px;
+    height: 380px;
+    top: 400px;
+    right: -110px;
+  }
+}
+
+@media screen and (max-width: 524px) {
+  .kaufman__triangle {
+    width: 304px;
+    height: 304px;
+    top: 1100px;
+    right: -90px;
+  }
+}

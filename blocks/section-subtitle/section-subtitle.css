@@ -29,3 +29,9 @@
     margin-top: 10px;
   }
 }
+
+@media screen and (max-width: 524px) {
+  .section-subtitle {
+    width: 80%;
+  }
+}

@@ -8,3 +8,9 @@
     width: 85%;
   }
 }
+
+@media screen and (max-width: 524px) {
+  .khan__container {
+    width: 90%;
+  }
+}
