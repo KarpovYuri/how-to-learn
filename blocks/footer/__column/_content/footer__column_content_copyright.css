@@ -14,3 +14,9 @@
     flex-basis: 400px;
   }
 }
+
+@media screen and (max-width: 767px) {
+  .footer__column_content_copyright {
+    flex-basis: 200px;
+  }
+}

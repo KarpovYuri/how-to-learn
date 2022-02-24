@@ -15,3 +15,10 @@
     width: 90%;
   }
 }
+
+@media screen and (max-width: 767px) {
+  .two-columns {
+    width: 85%;
+    flex-wrap: wrap;
+  }
+}

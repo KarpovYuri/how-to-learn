@@ -11,12 +11,21 @@
 
 @media screen and (max-width: 1279px) {
   .header {
-    height: 85vh;
+    min-height: 510px;
+    max-height: 643px;
   }
 }
 
 @media screen and (max-width: 1023px) {
   .header {
-    height: 64vh;
+    min-height: 383px;
+    max-height: 482px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .header {
+    min-height: 260px;
+    max-height: 400px;
   }
 }

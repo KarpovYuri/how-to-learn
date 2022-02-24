@@ -20,3 +20,10 @@
     width: 362px;
   }
 }
+
+@media screen and (max-width: 767px) {
+  .header__square-pic {
+    height: 246px;
+    width: 246px;
+  }
+}

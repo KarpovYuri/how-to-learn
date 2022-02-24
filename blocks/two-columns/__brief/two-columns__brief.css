@@ -21,3 +21,10 @@
     font-size: 14px;
   }
 }
+
+@media screen and (max-width: 767px) {
+  .two-columns__brief {
+    max-width: 300px;
+    margin-bottom: 15px;
+  }
+}

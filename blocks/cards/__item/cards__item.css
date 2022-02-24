@@ -26,3 +26,14 @@
     margin-right: 64px;
   }
 }
+
+@media screen and (max-width: 767px) {
+  .cards__item {
+    width: 200px;
+    margin-right: 46px;
+  }
+
+  .cards__item:nth-of-type(3n) {
+    margin-right: 46px;
+  }
+}

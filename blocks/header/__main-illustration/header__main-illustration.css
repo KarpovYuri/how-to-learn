@@ -22,3 +22,10 @@
     height: 387px;
   }
 }
+
+@media screen and (max-width: 767px) {
+  .header__main-illustration {
+    width: 332px;
+    height: 263px;
+  }
+}

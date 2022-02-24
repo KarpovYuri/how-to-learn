@@ -13,3 +13,9 @@
     padding: 64px 0;
   }
 }
+
+@media screen and (max-width: 767px) {
+  .digits {
+    padding: 44px 0;
+  }
+}
