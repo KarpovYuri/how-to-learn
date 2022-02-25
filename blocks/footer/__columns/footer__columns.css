@@ -23,7 +23,7 @@
   }
 }
 
-@media screen and (max-width: 424px) {
+@media screen and (max-width: 524px) {
   .footer__columns {
     flex-wrap: wrap;
   }

@@ -21,10 +21,16 @@
 
 @media screen and (max-width: 1279px) {
   .header__subtitle {
-    max-width: 262px;
+    max-width: 265px;
     line-height: 21px;
     font-size: 14px;
     left: 41px;
+  }
+}
+
+@media screen and (max-width: 1023px) {
+  .header__subtitle {
+    max-width: 246px;
   }
 }
 
