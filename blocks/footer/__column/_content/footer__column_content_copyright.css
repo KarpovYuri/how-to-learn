@@ -23,6 +23,7 @@
 
 @media screen and (max-width: 524px) {
   .footer__column_content_copyright {
-    flex-basis: 200px;
+    flex-basis: 265px;
+    order: 3;
   }
 }

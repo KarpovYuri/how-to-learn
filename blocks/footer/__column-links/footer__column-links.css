@@ -14,7 +14,7 @@
   }
 }
 
-@media screen and (max-width: 524px) {
+@media screen and (max-width: 424px) {
   .footer__column-links {
     margin: 15px 0 11px 0;
     line-height: 26px;
