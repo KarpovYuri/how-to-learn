@@ -12,7 +12,7 @@
   }
 }
 
-@media screen and (max-width: 524px) {
+@media screen and (max-width: 424px) {
   .footer__column-heading {
     line-height: 22px;
     font-size: 14px;

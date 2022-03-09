@@ -21,7 +21,7 @@
 
 @media screen and (max-width: 767px) {
   .section-title {
-    font-size: 30px;
+    font-size: 28px;
   }
 }
 
@@ -33,6 +33,6 @@
 
 @media screen and (max-width: 424px) {
   .section-title {
-    width: 90%;
+    width: 91%;
   }
 }
