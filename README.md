@@ -15,4 +15,5 @@
 + Псевдоклассы
 + Адаптация
 
-* [ссылка на GitHub Pages](https://yurick78.github.io/how-to-learn/index.html)
+
+* [ссылка на GitHub Pages](https://karpovyuri.github.io/how-to-learn/index.html)
